@@ -44,7 +44,7 @@ React Router
 
 https://github.com/sandeepdewangan/9-pizza-app
 
-### Sangwari Resort Backend
+### Sangwari Resort Backend (All in One App)
 Tanstack React Query
 
 https://github.com/sandeepdewangan/10-sangwari-resort
