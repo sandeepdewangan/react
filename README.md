@@ -33,3 +33,19 @@ https://github.com/sandeepdewangan/6-world-wise
 
 https://github.com/sandeepdewangan/7-react-tailwind
 
+
+### Redux
+Redux Course
+
+https://github.com/sandeepdewangan/8-redux
+
+### Pizza Order App
+React Router 
+
+https://github.com/sandeepdewangan/9-pizza-app
+
+### Sangwari Resort Backend
+Tanstack React Query
+
+https://github.com/sandeepdewangan/10-sangwari-resort
+
