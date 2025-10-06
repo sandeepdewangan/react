@@ -1,3 +1,7 @@
+# Next Js
+### Basics-I
+[Basics](https://github.com/sandeepdewangan/react/blob/main/nextjs_basics.md)
+
 # React
 ### Pizza Menu App
 Components, Props, JSX
