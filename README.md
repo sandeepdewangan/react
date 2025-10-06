@@ -2,7 +2,7 @@
 
 | Title    | Link |
 | -------- | ------- |
-| Basics  | [Codevolution](https://github.com/sandeepdewangan/react/blob/main/nextjs_basics.md)    |
+| Basics  | [From Codevolution Youtube Course](https://github.com/sandeepdewangan/react/blob/main/nextjs_basics.md)    |
 
 
 # React
