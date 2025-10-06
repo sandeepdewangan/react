@@ -1,6 +1,9 @@
 # Next Js
-|---|---|
-|Basics| 1️⃣ [Codevolution](https://github.com/sandeepdewangan/react/blob/main/nextjs_basics.md)|
+
+| Title    | Link |
+| -------- | ------- |
+| Basics  | [Codevolution](https://github.com/sandeepdewangan/react/blob/main/nextjs_basics.md)    |
+
 
 # React
 ### Pizza Menu App
